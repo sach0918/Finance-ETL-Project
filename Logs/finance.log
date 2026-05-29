@@ -1,0 +1,16 @@
+2026-05-27 13:16:17,953 - INFO - MySQL connection successful
+2026-05-27 13:17:11,389 - INFO - MySQL connection closed
+2026-05-27 13:19:09,632 - INFO - MySQL connection successful
+2026-05-27 13:20:02,764 - ERROR - Pipeline failed: 'stock_date'
+2026-05-27 13:20:02,765 - INFO - MySQL connection closed
+2026-05-27 13:24:45,867 - INFO - MySQL connection successful
+2026-05-27 13:25:39,756 - ERROR - Pipeline failed: 'str' object has no attribute 'date'
+2026-05-27 13:25:39,758 - INFO - MySQL connection closed
+2026-05-27 13:27:44,918 - INFO - MySQL connection successful
+2026-05-27 13:28:37,596 - INFO - Inserted rows: 400
+2026-05-27 13:28:37,596 - INFO - Duplicate rows skipped: 0
+2026-05-27 13:28:37,596 - INFO - Failed rows: 0
+2026-05-27 13:28:37,600 - INFO - MySQL connection closed
+2026-05-29 12:58:39,195 - INFO - MySQL connection successful
+2026-05-29 12:59:33,116 - INFO - CSV uploaded to S3 successfully
+2026-05-29 12:59:33,121 - INFO - MySQL connection closed
